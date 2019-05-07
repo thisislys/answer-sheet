@@ -1,2 +1,2 @@
-# online
-这是一个基于Vue+Webpack构建的简单chat示例，聊天记录保存在localStorge。简单演示了Vue的基础特性和webpack配置。
+# answerSheet
+HTML5移动端在线答题卡代码，单选答题代码，选定答案，自动进入下一题。
